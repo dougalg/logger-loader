@@ -1,0 +1,47 @@
+{
+  "name": "logger-loader",
+  "version": "0.0.1",
+  "author": {
+    "name": "Dougal Graham @dougalg"
+  },
+  "description": "logger loader module for webpack",
+  "dependencies": {
+    "loader-utils": "0.2.x",
+    "source-map": "0.1.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougalg/logger-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dougalg/logger-loader/issues"
+  },
+  "homepage": "https://github.com/dougalg/logger-loader",
+  "_id": "logger-loader@0.0.1",
+  "dist": {
+    "shasum": "f3ba5070960afd4509b6d852db7e7fd136b9cc8f",
+    "tarball": "http://registry.npmjs.org/imports-loader/-/imports-loader-0.6.3.tgz"
+  },
+  "_from": "logger-loader@",
+  "_npmVersion": "0.0.1",
+  "_npmUser": {
+    "name": "dougalg",
+    "email": "dougalg@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "dougalg",
+      "email": "dougalg@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "f3ba5070960afd4509b6d852db7e7fd136b9cc8f",
+  "_resolved": "https://registry.npmjs.org/imports-loader/-/imports-loader-0.6.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
