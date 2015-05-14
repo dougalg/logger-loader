@@ -3,6 +3,10 @@
 A simple loader that wraps modules in `try`/`catch` blocks, and allows you to specify a function to call with the
 error as an argument.
 
+##Installation
+
+```npm install --save-dev logger-loader```
+
 ##Usage
 
 ###webpack.config
